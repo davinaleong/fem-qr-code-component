@@ -4,7 +4,7 @@ Another simple challenge from Frontend Mentor.
 
 The challenge can be found [here]().
 
-Demo link coming soon!
+Demo project can be viewed [here](https://davinaleong.github.io/fem-qr-code-component/).
 
 ## Getting Started
 
