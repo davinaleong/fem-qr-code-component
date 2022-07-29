@@ -2,7 +2,7 @@
 
 Another simple challenge from Frontend Mentor.
 
-The challenge can be found [here]().
+The challenge can be found [here](https://www.frontendmentor.io/solutions/responsive-qr-code-component-in-html-and-css--9N2k38IWy).
 
 Demo project can be viewed [here](https://davinaleong.github.io/fem-qr-code-component/).
 
